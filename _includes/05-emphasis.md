@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Skills & Attributes
+Mechanical Engineering, Mathematics, **VBA**, _**Excel**_, Word, Stress Analysis, Thermodynamics, Fluid Analysis, *Product Management*, Business Strategy, Strategic Planning
